@@ -1,0 +1,12 @@
+gcc -c testmain.c
+gcc -c tf4.c
+gcc -c tf3.c
+gcc -c tf0.c
+gcc -c tf1.c
+gcc -c tf2.c
+gcc -o testexec testmain.o tf4.o tf3.o tf0.o tf1.o tf2.o
+I'm loving' it.
+With a taste of your lips.
+intoxicate me now
+Should wear a warning.
+You're dangerous.

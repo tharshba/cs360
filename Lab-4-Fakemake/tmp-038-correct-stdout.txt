@@ -1,0 +1,10 @@
+gcc -c -I/dev/null -O tf4.c
+gcc -c -I/dev/null -O testmain.c
+gcc -c -I/dev/null -O tf2.c
+gcc -c -I/dev/null -O tf3.c
+gcc -o testexec -I/dev/null -O tf4.o testmain.o tf1.o tf2.o tf3.o testlib.a
+Baby, give me it.
+I'm on a ride.
+I'm calling a guy like you
+It's Dangerous; I'm falling
+I'm loving' it.

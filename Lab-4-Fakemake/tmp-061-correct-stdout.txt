@@ -1,0 +1,6 @@
+gcc -o testexec -O tf4.o testmain.o tf1.o tf2.o tf3.o testlib.a
+I'm on a ride.
+Should wear a warning.
+intoxicate me now
+You're dangerous.
+I can't wait, I need a hit.

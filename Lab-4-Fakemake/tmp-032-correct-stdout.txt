@@ -1,0 +1,11 @@
+gcc -c -O tf2.c
+gcc -c -O tf4.c
+gcc -c -O tf0.c
+gcc -c -O tf1.c
+gcc -o testexec -O tf2.o tf3.o tf4.o testmain.o tf0.o tf1.o -lm
+Should wear a warning.
+I'm ready now
+I can't wait, I need a hit.
+I'm loving' it.
+Baby, give me it.
+The log base 10 of 12345.6789 is 4.0915

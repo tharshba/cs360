@@ -1,0 +1,36 @@
+testmain.c: In function ‘main’:
+testmain.c:10:3: warning: implicit declaration of function ‘first’ [-Wimplicit-function-declaration]
+   first();
+   ^~~~~
+testmain.c:11:3: warning: implicit declaration of function ‘second’; did you mean ‘setenv’? [-Wimplicit-function-declaration]
+   second();
+   ^~~~~~
+   setenv
+testmain.c:12:3: warning: implicit declaration of function ‘third’ [-Wimplicit-function-declaration]
+   third();
+   ^~~~~
+testmain.c:13:3: warning: implicit declaration of function ‘fourth’; did you mean ‘fputs’? [-Wimplicit-function-declaration]
+   fourth();
+   ^~~~~~
+   fputs
+testmain.c:14:3: warning: implicit declaration of function ‘fifth’ [-Wimplicit-function-declaration]
+   fifth();
+   ^~~~~
+testmain.c: In function ‘main’:
+testmain.c:10:3: warning: implicit declaration of function ‘first’ [-Wimplicit-function-declaration]
+   first();
+   ^~~~~
+testmain.c:11:3: warning: implicit declaration of function ‘second’; did you mean ‘setenv’? [-Wimplicit-function-declaration]
+   second();
+   ^~~~~~
+   setenv
+testmain.c:12:3: warning: implicit declaration of function ‘third’ [-Wimplicit-function-declaration]
+   third();
+   ^~~~~
+testmain.c:13:3: warning: implicit declaration of function ‘fourth’; did you mean ‘fputs’? [-Wimplicit-function-declaration]
+   fourth();
+   ^~~~~~
+   fputs
+testmain.c:14:3: warning: implicit declaration of function ‘fifth’ [-Wimplicit-function-declaration]
+   fifth();
+   ^~~~~

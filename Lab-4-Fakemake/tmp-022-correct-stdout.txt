@@ -1,0 +1,9 @@
+gcc -c twofile.c
+gcc -c first_three.c
+gcc -o twoexec twofile.o first_three.o
+Too high, can't come down
+Losing my head
+Spinning 'round and 'round
+Do you feel me now?
+I'm slipping under 
+With a taste of poison paradise 

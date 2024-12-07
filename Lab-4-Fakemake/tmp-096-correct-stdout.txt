@@ -1,0 +1,6 @@
+gcc -o testexec -O testmain.o tf3.o tf4.o testlib.a
+I can't wait, I need a hit.
+Baby, give me it.
+With a taste of your lips.
+I'm loving' it.
+I'm on a ride.

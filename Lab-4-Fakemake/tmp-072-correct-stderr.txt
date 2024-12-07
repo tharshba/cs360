@@ -1,0 +1,58 @@
+testmain.c: In function ‘main’:
+testmain.c:6:3: warning: implicit declaration of function ‘first’ [-Wimplicit-function-declaration]
+   first();
+   ^~~~~
+testmain.c:7:3: warning: implicit declaration of function ‘second’; did you mean ‘setenv’? [-Wimplicit-function-declaration]
+   second();
+   ^~~~~~
+   setenv
+testmain.c:8:3: warning: implicit declaration of function ‘third’ [-Wimplicit-function-declaration]
+   third();
+   ^~~~~
+testmain.c:9:3: warning: implicit declaration of function ‘fourth’; did you mean ‘fputs’? [-Wimplicit-function-declaration]
+   fourth();
+   ^~~~~~
+   fputs
+testmain.c:10:3: warning: implicit declaration of function ‘fifth’ [-Wimplicit-function-declaration]
+   fifth();
+   ^~~~~
+testmain.c: In function ‘main’:
+testmain.c:6:3: warning: implicit declaration of function ‘first’ [-Wimplicit-function-declaration]
+   first();
+   ^~~~~
+testmain.c:7:3: warning: implicit declaration of function ‘second’; did you mean ‘setenv’? [-Wimplicit-function-declaration]
+   second();
+   ^~~~~~
+   setenv
+testmain.c:8:3: warning: implicit declaration of function ‘third’ [-Wimplicit-function-declaration]
+   third();
+   ^~~~~
+testmain.c:9:3: warning: implicit declaration of function ‘fourth’; did you mean ‘fputs’? [-Wimplicit-function-declaration]
+   fourth();
+   ^~~~~~
+   fputs
+testmain.c:10:3: warning: implicit declaration of function ‘fifth’ [-Wimplicit-function-declaration]
+   fifth();
+   ^~~~~
+cc1: warning: /dev/null: not a directory
+cc1: warning: /dev/null: not a directory
+cc1: warning: /dev/null: not a directory
+cc1: warning: /dev/null: not a directory
+testmain.c: In function ‘main’:
+testmain.c:6:3: warning: implicit declaration of function ‘first’ [-Wimplicit-function-declaration]
+   first();
+   ^~~~~
+testmain.c:7:3: warning: implicit declaration of function ‘second’; did you mean ‘setenv’? [-Wimplicit-function-declaration]
+   second();
+   ^~~~~~
+   setenv
+testmain.c:8:3: warning: implicit declaration of function ‘third’ [-Wimplicit-function-declaration]
+   third();
+   ^~~~~
+testmain.c:9:3: warning: implicit declaration of function ‘fourth’; did you mean ‘fputs’? [-Wimplicit-function-declaration]
+   fourth();
+   ^~~~~~
+   fputs
+testmain.c:10:3: warning: implicit declaration of function ‘fifth’ [-Wimplicit-function-declaration]
+   fifth();
+   ^~~~~

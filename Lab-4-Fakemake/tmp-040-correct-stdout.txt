@@ -1,0 +1,3 @@
+gcc -c -O tf1.c
+gcc -c -O tf2.c
+gcc -c -O tf4.c

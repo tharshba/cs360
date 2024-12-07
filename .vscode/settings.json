@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "*.tcc": "c",
+        "limits": "c",
+        "numeric": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "algorithm": "c",
+        "mymalloc.h": "c"
+    }
+}

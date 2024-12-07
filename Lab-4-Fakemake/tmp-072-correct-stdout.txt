@@ -1,0 +1,10 @@
+gcc -c -I/dev/null -O tf3.c
+gcc -c -I/dev/null -O tf1.c
+gcc -c -I/dev/null -O tf4.c
+gcc -c -I/dev/null -O testmain.c
+gcc -o testexec -I/dev/null -O tf2.o tf3.o tf1.o tf4.o testmain.o tf0.o
+I'm on a ride.
+I'm ready now
+I'm loving' it.
+With a taste of your lips.
+You're dangerous.

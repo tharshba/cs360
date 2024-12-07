@@ -1,0 +1,22 @@
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+twofile.c: In function ‘main’:
+twofile.c:6:3: warning: implicit declaration of function ‘first_three’ [-Wimplicit-function-declaration]
+   first_three();
+   ^~~~~~~~~~~
+first_three.c:10:2: warning: missing terminating ' character
+ I'm addicted to you.
+  ^
+first_three.c:10:2: error: missing terminating ' character
+ I'm addicted to you.
+  ^~~~~~~~~~~~~~~~~~~
+first_three.c:10:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ at end of input
+ I'm addicted to you.
+ ^
+Command failed.  Exiting

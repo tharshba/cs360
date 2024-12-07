@@ -1,0 +1,10 @@
+gcc -c -O testmain.c
+gcc -c -O tf3.c
+gcc -c -O tf4.c
+gcc -c -O tf2.c
+gcc -o testexec -O testmain.o tf3.o tf4.o tf2.o testlib.a
+You're dangerous.
+I can't wait, I need a hit.
+It's Dangerous; I'm falling
+Baby, give me it.
+With a taste of your lips.
